@@ -1,0 +1,38 @@
+div{
+    margin: 10px;
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header{
+    border: solid 2px;
+    text-align: center;
+    background-color: rgb(255, 249, 194);
+}
+
+h1, p{
+    font-weight: bold;
+    color: rgb(91, 46, 8);
+}
+
+.content {
+    border: solid 2px;
+    height: 200px;
+    background-color: rgb(181, 219, 246);
+}
+
+img{
+    float: right;
+    padding: 10px;
+    height: 90%;
+}
+
+li{
+    padding: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.bold{
+    font-weight: bold;
+}
