@@ -1,0 +1,1 @@
+This webpage demonstrates intermediate HTML and CSS ideas.  This menu will change the image based on the item that is chosen from it. I plan to implement more menu features and sections such as sides, drinks, etc.
